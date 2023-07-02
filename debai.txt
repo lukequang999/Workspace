@@ -1,0 +1,8 @@
+Cho điểm thi và điểm quá trình, điểm xếp loại,
+ điểm xếp loại là điểm thi + quá trình /2, 
+ điểm xếp loại sinh viên nếu trên 8.5 xếp loại A, 
+ dưới 8.5 và trên 7 thì loại B, 
+ dưới 7 và trên 5 thì là C, 
+ còn lại là D 
+Viết chương trình xếp loại học sinh .
+cout << "Binh"
