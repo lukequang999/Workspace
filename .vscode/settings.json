@@ -1,8 +1,16 @@
 {
     "files.associations": {
+<<<<<<< HEAD
         "iostream": "cpp",
         "bitset": "cpp",
         "string_view": "cpp",
         "regex": "cpp"
     }
+=======
+        "istream": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe"
+>>>>>>> 98533feb5322d5dd46aebc86c698b88e3f16439d
 }
